@@ -12,6 +12,8 @@ Run the above project with following Commands:
 - `npm i`
 - `npm start`
 
+Now, the app runs on `http://localhost:3000`
+
 
 #### Demo
 
